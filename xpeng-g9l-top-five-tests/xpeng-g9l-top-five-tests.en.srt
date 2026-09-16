@@ -1,0 +1,556 @@
+1
+00:00:00,000 --> 00:00:20,920
+(music)
+
+2
+00:00:20,920 --> 00:00:25,880
+Hi everyone, I'm Yin Zheng. Hi everyone, I'm Kang Yue. Hey bro, welcome to
+
+3
+00:00:25,880 --> 00:00:32,520
+TOP G9L. Welcome — enjoy your stay. Bro, I've been waiting to say that for ages.
+
+4
+00:00:32,520 --> 00:00:36,440
+I've wanted to shout those four words at the camera for so long. Lend it to me for a day. Later.
+
+5
+00:00:36,440 --> 00:00:42,640
+Let me reintroduce myself, everyone. I'm Yin Zheng, and I'm the XPeng G9L's
+
+6
+00:00:42,640 --> 00:00:48,640
+performance inspector. Today I'll lead you through five tests on the XPeng G9L.
+
+7
+00:00:48,640 --> 00:00:55,400
+The crest jump? Nice. This one's
+
+8
+00:00:55,400 --> 00:01:01,440
+the moose test, cross-axle — awesome, just awesome.
+
+9
+00:01:01,440 --> 00:01:07,960
+Wading — how deep it goes... this is getting scary. Wait, guys, this day might
+
+10
+00:01:07,960 --> 00:01:13,960
+be a little dangerous. Yuqing, wake up. Yuqing! We're done for, done for! Sounds okay-ish, though.
+
+11
+00:01:13,960 --> 00:01:20,320
+Come on, I do this every day — let's just run the process. Then we'll see. Let's wait and see.
+
+12
+00:01:20,920 --> 00:01:29,720
+Welcome — enjoy your stay. Ayue.
+
+13
+00:01:29,720 --> 00:01:34,920
+Next we'll put this XPeng G9L through a crest jump test.
+
+14
+00:01:34,920 --> 00:01:40,280
+The crest jump is simple — we do it every day. Let's see if the shocks can hold the body.
+
+15
+00:01:40,280 --> 00:01:44,680
+As expected of Ayue — very professional. Even though this car is an SUV, it has
+
+16
+00:01:44,680 --> 00:01:50,640
+dual-chamber air springs plus adaptive dampers. A crest jump is routine for it —
+
+17
+00:01:50,640 --> 00:01:55,160
+it holds it in one hit. Sounds fancy, but we don't know how it performs in practice.
+
+18
+00:01:55,160 --> 00:02:00,800
+We'll put it into practice right away. But a plain crest jump feels a bit mediocre,
+
+19
+00:02:01,480 --> 00:02:07,240
+so... a lane-change jump. You mean changing lane while airborne?
+
+20
+00:02:08,000 --> 00:02:15,280
+Go on, you've never tried this, right? Ayue, let's wait and see.
+
+21
+00:02:27,680 --> 00:02:34,080
+Nice, that works. But there's one problem.
+
+22
+00:02:34,080 --> 00:02:41,560
+You say you complete a lane change in mid-air — what does that mean? The meaning matters a lot here.
+
+23
+00:02:41,560 --> 00:02:47,280
+When the car is in this weird lane-change jump behaviour,
+
+24
+00:02:47,280 --> 00:02:52,640
+the structure takes huge stress both vertically and longitudinally. Yeah — when the car is in a lane-change jump,
+
+25
+00:02:52,640 --> 00:02:57,600
+in this weird behaviour, the structure takes huge stress both vertically and longitudinally.
+
+26
+00:02:57,600 --> 00:03:06,000
+Do it badly and it flips easily, you know? That's embarrassing. But because we have the XVMC chassis system,
+
+27
+00:03:06,000 --> 00:03:13,080
+it monitors the tires, the suspension, even the rear-wheel steering in real time
+
+28
+00:03:13,080 --> 00:03:18,480
+and adjusts in real time, so it holds it in one hit. I get it.
+
+29
+00:03:18,480 --> 00:03:25,760
+So it's like I'm below the crest and can't see what's beyond it. If I saw a herd of cattle out there,
+
+30
+00:03:25,760 --> 00:03:32,280
+then I'd just yank the wheel into that lane change — even the cattle wouldn't know. Nobody uses this feature,
+
+31
+00:03:32,280 --> 00:03:37,360
+but when you use it, it's no ordinary thing. Awesome or not? Do you know how much a cow costs?
+
+32
+00:03:37,360 --> 00:03:42,960
+How much? Ten thousand a head. Awesome or not? So awesome. Go.
+
+33
+00:03:52,600 --> 00:03:59,760
+How was it, Yuezi? How did it feel? Not bad. It even reminds me of an old friend —
+
+34
+00:03:59,760 --> 00:04:06,600
+a million-yuan luxury SUV: a Porsche Cayenne Turbo S with PDCC.
+
+35
+00:04:06,600 --> 00:04:12,440
+Since the mood has been built up this far, let's just go for something impressive.
+
+36
+00:04:12,440 --> 00:04:27,760
+For the moose test, let's bring on our mystery driver. How about it, Yuezi?
+
+37
+00:04:27,760 --> 00:04:36,240
+80 km/h. Insane! On paper alone, it rivals million-yuan luxury high-performance S
+
+38
+00:04:36,240 --> 00:04:42,600
+Moose test — bring on the mystery driver. Moose test — bring on the mystery driver
+
+39
+00:04:42,600 --> 00:04:50,280
+Moose test — bring on the mystery driver. Moose test — bring on the mystery driver
+
+40
+00:04:50,280 --> 00:04:57,600
+For the moose test, let's bring on our mystery driver. A luxury high-performance SUV
+
+41
+00:05:06,240 --> 00:05:11,760
+Ayue, do you know what's coming next? I know — you're putting it on the cross-axle.
+
+42
+00:05:11,760 --> 00:05:19,240
+I'm testing this car's off-road ability, baby. You only got half right. There's more.
+
+43
+00:05:19,240 --> 00:05:26,680
+Go! It worked!
+
+44
+00:05:26,680 --> 00:05:33,760
+Not bad, not bad at all! Ayue, do you know what's coming next?
+
+45
+00:05:33,760 --> 00:05:40,520
+I know you'll open the doors. And I know what's next — you want to use Xiao P.
+
+46
+00:05:40,520 --> 00:05:44,840
+Front passenger seat, go ahead. Close the doors. Doors closing.
+
+47
+00:05:45,920 --> 00:05:51,720
+To prove this car's off-road ability — body rigidity is right on point. I told you,
+
+48
+00:05:51,720 --> 00:05:59,320
+you only guessed half right. Xiao P, Xiao P, open all the doors and the boot.
+
+49
+00:05:59,320 --> 00:06:03,120
+Doors opening. The boot is open.
+
+50
+00:06:04,120 --> 00:06:11,520
+Xiao P, Xiao P. I'm here. Close all the doors and the boot. Doors closing.
+
+51
+00:06:11,520 --> 00:06:17,920
+The boot is closed. Not bad at all. Insane, insane.
+
+52
+00:06:23,920 --> 00:06:26,520
+This is our first time filming together — it's like a
+
+53
+00:06:35,920 --> 00:06:43,720
+Xiao P, Xiao P. Go ahead. Turn on wading mode. In wading mode, power and brake recovery soften
+
+54
+00:06:43,720 --> 00:06:53,720
+Suspension raised to maximum. Confirm opening? Confirm. Confirm — I know this one.
+
+55
+00:06:53,720 --> 00:06:58,720
+Just drive through a puddle — what car can't do that? You've got the windows open!
+
+56
+00:06:59,720 --> 00:07:05,720
+700 mm — that's not a puddle anymore, that's a lake, buddy.
+
+57
+00:07:05,720 --> 00:07:12,720
+Wading isn't something you can fake. Fair enough — here we go. We're in the water.
+
+58
+00:07:12,720 --> 00:07:18,720
+700 mm — deeper than I imagined. This is a boat.
+
+59
+00:07:20,720 --> 00:07:26,720
+How do you feel right now? At this moment — this car has to be priced in the 3s.
+
+60
+00:07:26,720 --> 00:07:32,720
+Caught on camera this instant — it's worth 290k. So cool. This really is a bit cool.
+
+61
+00:07:32,720 --> 00:07:39,720
+Right? Really a bit cool. Feels like driving a boat — a lotus emerging from water.
+
+62
+00:07:40,720 --> 00:07:45,720
+This really works. Look at this — this really works.
+
+63
+00:07:46,720 --> 00:07:52,720
+But Ayu, you've only seen part of it. Part of it. What comes next
+
+64
+00:07:52,720 --> 00:07:56,720
+is what I really want to tell you. What?
+
+65
+00:07:57,720 --> 00:08:02,720
+Xiao P, Xiao P. I'm here. Open the boot. The boot is opening.
+
+66
+00:08:08,720 --> 00:08:12,720
+Ayu, do you know what this is? It's a piece of paper. Exactly — but not just any
+
+67
+00:08:12,720 --> 00:08:17,720
+ordinary piece of paper. It's a test paper that changes color when wet. Look.
+
+68
+00:08:21,720 --> 00:08:28,720
+Meaning no water got into the cabin. Exactly — completely dry, not a single drop
+
+69
+00:08:28,720 --> 00:08:32,720
+seeped into this spot. I get it — the 700 mm of water came right up to this point.
+
+70
+00:08:32,720 --> 00:08:37,720
+Exactly. So the water hit this level and the cabin stayed dry — especially with yours
+
+71
+00:08:37,720 --> 00:08:43,720
+A user wearing very distinguished sneakers never gets his feet wet
+
+72
+00:08:43,720 --> 00:08:49,720
+This is really impressive, really impressive, badass! Nice! Get in!
+
+73
+00:08:51,720 --> 00:08:57,720
+Xiao P, Xiao P. / You called? Close the trunk. / The trunk is closing.
+
+74
+00:09:01,720 --> 00:09:06,720
+Exit wading mode. OK, perfect, perfect, wow!
+
+75
+00:09:07,720 --> 00:09:11,720
+Even better than the bridge, and it splashed—another slash!
+
+76
+00:09:12,720 --> 00:09:17,720
+This key is way too wide. The seat's comfy too. This car is too wide.
+
+77
+00:09:18,720 --> 00:09:24,720
+XPeng, XPeng, this one should have lights too. Pure electric too, really.
+
+78
+00:09:24,720 --> 00:09:28,720
+Three grown men in the back, watching me like this—me, all 100 kilos.
+
+79
+00:09:29,720 --> 00:09:34,720
+It even has a leg rest. And notice the detail: this seatbelt is on the seat.
+
+80
+00:09:34,720 --> 00:09:39,720
+So this is safer, right? And on the drive I can recline half-way.
+
+81
+00:09:39,720 --> 00:09:46,720
+Up here it cinches your neck—really unsafe. High-end zero-gravity builds it into the seat.
+
+82
+00:09:46,720 --> 00:09:48,720
+You're all on the floor, let us sit here a bit.
+
+83
+00:09:49,720 --> 00:09:59,720
+I've owned one like that. If this car sold for 300,000...
+
+84
+00:09:59,720 --> 00:10:02,720
+Right at this moment it's worth 290,000. Worth the ticket price.
+
+85
+00:10:03,720 --> 00:10:07,720
+It's a monthly thing—the vehicle tax can't be wasted. And I left out one line.
+
+86
+00:10:07,720 --> 00:10:10,720
+At this moment you lose yourself in one endless load of awesomeness.
+
+87
+00:10:13,720 --> 00:10:17,720
+At this moment you lose yourself in one endless load of awesomeness.
+
+88
+00:10:17,720 --> 00:10:24,720
+Totally lost. Completely lost. Zheng-ge, did you see that water drain?
+
+89
+00:10:24,720 --> 00:10:29,720
+On that extreme right-hander, turn up and right—it drains here, on this side, right turn.
+
+90
+00:10:30,720 --> 00:10:32,720
+It just drains here on the right turn, when the steering turns.
+
+91
+00:10:36,720 --> 00:10:44,720
+One go and look, no problem at all. Its turning radius is smaller than many sedans.
+
+92
+00:10:45,720 --> 00:10:48,720
+And the interior quality is pretty good too.
+
+93
+00:10:50,720 --> 00:10:54,720
+Look, the headliner also gets an open... Zheng-ge, you can keep driving forward.
+
+94
+00:10:54,720 --> 00:10:58,720
+Yeah, just keep going forward. Up ahead here you can...
+
+95
+00:10:59,720 --> 00:11:03,720
+Some high-speed ring, right? Yeah, the ring, this big ring—go faster, no problem.
+
+96
+00:11:04,720 --> 00:11:08,720
+Move up a bit more, just use its auto acceleration... yeah, super fast.
+
+97
+00:11:10,720 --> 00:11:15,720
+Zheng-ge, this poem—how do we show it to everyone?
+
+98
+00:11:17,720 --> 00:11:23,720
+Are you ready? Ready. No—buddy, buddy, buddy!
+
+99
+00:11:23,720 --> 00:11:30,720
+Hello? It's driving unmanned! Hello, hello! Yuqiao, Yuqiao, wake up! Yuqiao, Yuqiao!
+
+100
+00:11:30,720 --> 00:11:36,720
+I'm up front, it's driving unmanned too, and now there are cars behind them!
+
+101
+00:11:36,720 --> 00:11:40,720
+I'm... Damn it! Yuqiao! No—Qiang-ge, Qiang-ge!
+
+102
+00:11:41,720 --> 00:11:48,720
+We're done for! No—it's telling you hands on the wheel! Yuqiao, Yuqiao!
+
+103
+00:11:48,720 --> 00:11:54,720
+Hands on the wheel! The assist key—it's flashing red! We're done, done, done!
+
+104
+00:11:56,720 --> 00:12:00,720
+Not like this, not like this. Today I might be... I might be in a bit of danger.
+
+105
+00:12:01,720 --> 00:12:06,720
+My car locked on, locked on, pulling over to a safe stop—pulling over now.
+
+106
+00:12:09,720 --> 00:12:16,720
+Pulling over — okay, we can do that.
+
+107
+00:12:16,720 --> 00:12:23,720
+It's pulling over, it's pulling over. It detected that Yin Zheng was incapacitated.
+
+108
+00:12:28,720 --> 00:12:40,720
+It pulled over — that works. The emergency rescue call has been triggered.
+
+109
+00:12:40,720 --> 00:12:47,720
+The vehicle will be located, please hold. It can even make the call itself.
+
+110
+00:12:47,720 --> 00:12:54,720
+To ensure service quality, this call may be recorded. Transferring, please hold.
+
+111
+00:12:56,720 --> 00:13:00,720
+XPeng's emergency coordination centre. Your safety alert came through — what's the situation?
+
+112
+00:13:00,720 --> 00:13:05,720
+Hello, sorry — this is the XPeng G9L performance inspector.
+
+113
+00:13:05,720 --> 00:13:14,720
+My name is Yin Zheng. We're running a driver-incapacity test on the XPeng G9L.
+
+114
+00:13:15,720 --> 00:13:21,720
+Okay, so do you need any assistance? No, we're perfectly safe.
+
+115
+00:13:21,720 --> 00:13:25,720
+Sorry to bother you. Thank you, thank you. Not at all — if anything comes up later...
+
+116
+00:13:25,720 --> 00:13:29,720
+...just contact us any time. Okay, thank you. Okay.
+
+117
+00:13:33,720 --> 00:13:39,720
+This feature works. Just now it gave me a scare — a car had just gone past.
+
+118
+00:13:39,720 --> 00:13:46,720
+Bang, bang, bang — the car just drove itself; it sensed you weren't holding the wheel and pulled over.
+
+119
+00:13:48,720 --> 00:13:55,720
+That's serious. There are countless roads, but safety comes first.
+
+120
+00:13:55,720 --> 00:14:02,720
+Go to work happy, come home happy. Let's go, Captain Yue.
+
+121
+00:14:02,720 --> 00:14:09,720
+That was great. So, A Yue, how was it?
+
+122
+00:14:09,720 --> 00:14:16,720
+Pretty striking. Before I came I thought the XPeng G9L was just an ordinary SUV.
+
+123
+00:14:16,720 --> 00:14:23,720
+After the whole experience, I think this car has something. Right — actually I think this car really does.
+
+124
+00:14:23,720 --> 00:14:30,720
+It even gives me a sense of contradiction — everything it should have and shouldn't have, it has.
+
+125
+00:14:30,720 --> 00:14:35,720
+Yes — expected or unexpected, it's all there. This contradiction, this sense of contradiction...
+
+126
+00:14:35,720 --> 00:14:40,720
+...is a mix of surprise and happiness. And if there's a surprise on price...
+
+127
+00:14:40,720 --> 00:14:47,720
+...it will definitely be a hit. Dear viewers, happy times always fly by so fast.
+
+128
+00:14:47,720 --> 00:14:52,720
+This episode of Top G9L has to say goodbye to you all.
+
+129
+00:14:53,720 --> 00:14:58,720
+So, everyone — the all-new XPeng G9L. Welcome — enjoy your stay.
+
+130
+00:15:03,720 --> 00:15:06,720
+Don't go, don't go — and there's more, everyone, everyone!
+
+131
+00:15:24,720 --> 00:15:31,720
+Get on the bike, get on the bike. Beautiful.
+
+132
+00:15:53,720 --> 00:16:03,720
+Starlight, dear starlight, I want to come to your side.
+
+133
+00:16:04,720 --> 00:16:10,720
+Some things are just like me.
+
+134
+00:16:10,720 --> 00:16:24,720
+We're dancing alike, and everything I see is by my side.
+
+135
+00:16:28,720 --> 00:16:34,720
+Everything I see is by my side.
+
+136
+00:16:34,720 --> 00:16:42,720
+Everything I see is by my side. Everything I see is by my side.
+
+137
+00:16:42,720 --> 00:16:48,720
+Everything I see is by my side, and then it's reborn.
+
+138
+00:16:48,720 --> 00:16:54,720
+We just have to look up — it went far, just like that. Then you keep pressing on me.
+
+139
+00:17:03,720 --> 00:17:22,720
+Our first shoot together — that was rough. Open my heart to this one.
+
