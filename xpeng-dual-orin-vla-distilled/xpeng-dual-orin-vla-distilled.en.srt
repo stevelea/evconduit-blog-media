@@ -1,0 +1,436 @@
+1
+00:00:00,000 --> 00:00:03,600
+How does VLA 2.0 on dual Orin-X, the distilled build, perform?
+
+2
+00:00:03,960 --> 00:00:08,120
+One night, PA and I are driving a MONA M03.
+
+3
+00:00:08,120 --> 00:00:12,280
+First, a look at the version number: dual Orin-X, distilled build. We set the nav simply.
+
+4
+00:00:12,280 --> 00:00:18,040
+I tried starting from standstill and it actually entered roaming — so in this basement car park...
+
+5
+00:00:18,040 --> 00:00:24,600
+...it just starts driving out. It can move off inside the car park, but we hadn't even set a route.
+
+6
+00:00:24,600 --> 00:00:31,520
+I set one. Let me say up front, this build is very, very early — ignore the SR display.
+
+7
+00:00:31,520 --> 00:00:36,160
+Just focus on how the dual Orin-X performs. It's so close to that car!
+
+8
+00:00:37,680 --> 00:00:45,200
+That gave me a fright. That counts as precise measurement — millimetre-level, right?
+
+9
+00:00:45,200 --> 00:00:51,520
+Climbing, the speed was 22 km/h; once on ground level it dropped to 16 km/h.
+
+10
+00:00:51,520 --> 00:00:58,240
+Millisecond-level, millisecond-level speed. It's heading over there — is that wrong? What's up with you? No, it's right.
+
+11
+00:00:58,240 --> 00:01:05,840
+Right — it precisely drove into the exit barrier, and the barrier lifts, out of the car park.
+
+12
+00:01:05,840 --> 00:01:11,240
+From the basement to the exit, the whole run shows the dual Orin-X capability isn't bad at all.
+
+13
+00:01:11,240 --> 00:01:16,920
+Damn, you had no exterior view outside — I'll fill it in for you. So this one's on me.
+
+14
+00:01:16,920 --> 00:01:22,000
+Originally we planned to let it stop so PA could open the equipment on the car roof.
+
+15
+00:01:22,000 --> 00:01:28,560
+But after it drove out we couldn't bear to interrupt, so we just let it keep driving. Starting with the model's basic capabilities...
+
+16
+00:01:28,560 --> 00:01:33,480
+Entering the familiar Mubei Road, we look at two scenarios that definitely would have meant hard braking before.
+
+17
+00:01:33,480 --> 00:01:38,800
+First, continuous oncoming traffic on a narrow road. We see the white car squeezing our space to get past a tricycle.
+
+18
+00:01:38,800 --> 00:01:43,280
+In that situation the model didn't slow much.
+
+19
+00:01:43,280 --> 00:01:48,400
+It only slowed slightly as a show of respect, and passed through the oncoming traffic very calmly.
+
+20
+00:01:48,400 --> 00:01:54,760
+That's their problem, that's their problem. Next is a ghost-probe pop-out scenario.
+
+21
+00:01:54,760 --> 00:02:00,560
+Pushed onto the user — that state — honestly, you don't even need to say anything. Look, it's fine, it's fine, it's fine, it's fine.
+
+22
+00:02:00,560 --> 00:02:05,640
+The braking was decent. You're so tense. The braking was decent. I nearly burned up right here.
+
+23
+00:02:05,640 --> 00:02:10,400
+Although the model can handle it, I'd still urge them to optimise it.
+
+24
+00:02:10,400 --> 00:02:16,000
+The deceleration in similar scenarios should be a bit bigger, because a pedestrian's crossing path often...
+
+25
+00:02:16,000 --> 00:02:20,680
+...can't be predicted. You can see the distilled build on dual Orin-X...
+
+26
+00:02:20,680 --> 00:02:26,440
+...has a very high model ceiling. Its tolerance really is completely different from before.
+
+27
+00:02:26,440 --> 00:02:31,280
+That means many scenarios that used to need the safety fallback to solve...
+
+28
+00:02:31,280 --> 00:02:36,440
+...can now be resolved by the model's own capability. We said before that XOS 6.3.0's...
+
+29
+00:02:36,440 --> 00:02:41,560
+...biggest trait is reacting very fast — and dual Orin-X is actually a lot like it.
+
+30
+00:02:41,560 --> 00:02:47,520
+Still Mubei Road. You'll see there are queued cars ahead, and here the model...
+
+31
+00:02:47,520 --> 00:02:53,800
+...is preparing to overtake. Isn't this — has it got it wrong? Come back, come back, come back. Yeah, come back, come back.
+
+32
+00:02:53,800 --> 00:02:58,920
+Yeah, it flashed me twice. The small flaw is that its swing back isn't quite enough.
+
+33
+00:02:58,920 --> 00:03:03,480
+I think if it could keep a bit more right and leave a big gap, that would be even better.
+
+34
+00:03:03,480 --> 00:03:09,360
+Down here you can see the shadow of the intersection following and going-around we posted a few days ago.
+
+35
+00:03:09,360 --> 00:03:14,240
+There's a car temporarily stopped — not using this thing... look, look, look. Whoa.
+
+36
+00:03:14,240 --> 00:03:21,760
+This go-around is fast too, really fast. It's not just silky, it has to be fast, because everyone can do silky now.
+
+37
+00:03:21,760 --> 00:03:27,360
+The bar is high — silky and fast. And here we merge onto the main road.
+
+38
+00:03:27,360 --> 00:03:30,160
+In the opposite lane, vehicles are making quick U-turns.
+
+39
+00:03:34,080 --> 00:03:41,200
+It flashed, flashed, flashed. In space and scene understanding, the test build also shows strong ability.
+
+40
+00:03:41,200 --> 00:03:46,280
+XOS 6.3.0 drove this road too. There's construction on the right, so we're driving on the left.
+
+41
+00:03:46,280 --> 00:03:52,080
+Now you see oncoming traffic, and VLA 2.0 moves right to open up space.
+
+42
+00:03:52,080 --> 00:03:58,160
+Right after that, a big truck — we stay on the right, still creeping.
+
+43
+00:03:58,160 --> 00:04:06,040
+It feels like it could pull out at any moment. And when the Denza finishes, it's ready to pull off, then sees a car still far ahead.
+
+44
+00:04:06,040 --> 00:04:13,640
+It stopped completely. I don't get it. Damn, how do I put this long-temporal ability, guys?
+
+45
+00:04:13,640 --> 00:04:22,040
+Yeah, dual Orin-X long temporal — and there's more, still more cars.
+
+46
+00:04:22,040 --> 00:04:26,240
+Just watch whether it goes after the car ahead clears, and you'll know where the model's ability actually stands
+
+47
+00:04:26,240 --> 00:04:33,240
+Whether it goes or not, I won't judge — you guys tell me. This is a dual Orin-X car
+
+48
+00:04:39,040 --> 00:04:45,720
+And it keeps going — see that? It keeps going around and then gives the space back
+
+49
+00:04:45,720 --> 00:04:49,720
+I'll stop talking, I'll stop talking — just watch, this is the dual Orin-X capability, dual Orin-X
+
+50
+00:04:49,720 --> 00:04:56,360
+This is VLA — someone say something — this is the dual Orin-X capability, look
+
+51
+00:04:56,360 --> 00:05:02,560
+OK, this is dual Orin-X. Look at this — this is the large model, this is AI
+
+52
+00:05:02,560 --> 00:05:07,680
+This is physical AI. Now there's an oncoming car again, so we do the same thing
+
+53
+00:05:07,680 --> 00:05:13,840
+Move right immediately, then complete the pass through this intersection. Its scene understanding really is very good
+
+54
+00:05:13,840 --> 00:05:20,160
+The order of who goes first, waiting when it should wait — it did all of it, and did it well
+
+55
+00:05:20,160 --> 00:05:25,760
+Near Guangzhou Honda, the meeting situation is similar — two lanes, someone parked, so we borrow the lane and go around
+
+56
+00:05:25,760 --> 00:05:30,400
+This one's impressive too — the moment it sees a car far ahead, it pulls over to the side right away
+
+57
+00:05:30,400 --> 00:05:37,000
+This stretch — here it comes, watch, duck aside a bit, then pull back out. See that?
+
+58
+00:05:37,000 --> 00:05:42,280
+It's the same as the car ahead. Once you've been through similar scenes many times, you start to wonder
+
+59
+00:05:42,280 --> 00:05:47,000
+Am I actually driving the Orin distilled build right now, or the three-Turing version?
+
+60
+00:05:47,000 --> 00:05:52,200
+Narrow-space passing ability — we can look at this scene. We're about to enter the right-turn-only lane
+
+61
+00:05:52,200 --> 00:05:57,040
+The straight lane has a long queue here, and on the right is the bike-lane railing
+
+62
+00:05:57,040 --> 00:06:03,080
+So damn good — a narrow road like this, it can absolutely get through. Holy crap. Think about it, it wouldn't dare before
+
+63
+00:06:03,080 --> 00:06:10,800
+Back with VLA, when meeting a car it would sit there thinking. Oh man — don't give me that boilerplate, OK?
+
+64
+00:06:10,800 --> 00:06:16,880
+The features dual Orin-X keeps are the same — there's also efficiency. You can see it reads the car ahead slowing down
+
+65
+00:06:16,880 --> 00:06:23,840
+The distilled build watches for a while, then immediately changes lanes to overtake. See that?
+
+66
+00:06:23,840 --> 00:06:28,400
+Look at this lane change here — its handling is different from 630's. Same with this efficiency-driven choice
+
+67
+00:06:28,400 --> 00:06:35,560
+The bus slows down, the left side is fairly open, so it gives two quick flicks of the wheel and changes to the left lane fast
+
+68
+00:06:35,560 --> 00:06:41,120
+This going-around — holy crap, this efficiency-driven choice, choosing for efficiency is exhausting, because the bus is slow
+
+69
+00:06:41,120 --> 00:06:46,440
+So it's basically the same as wanting to overtake. Here we're in the U-turn lane
+
+70
+00:06:46,440 --> 00:06:51,320
+Queuing in the right lane, the distilled build follows for a while — but watch its following distance here
+
+71
+00:06:51,320 --> 00:06:57,280
+It leaves a big gap. It keeps thinking about whether it can change into the right lane — here it comes
+
+72
+00:06:57,280 --> 00:07:02,640
+It realized, then dodged this whole queue, so it really did make that choice
+
+73
+00:07:10,120 --> 00:07:16,120
+Here it comes, this one's strong too, but you can tell the reaction really isn't as badass as 630's
+
+74
+00:07:16,120 --> 00:07:20,360
+But here — see that? It just goes straight around, comes straight around
+
+75
+00:07:20,360 --> 00:07:24,920
+And then it doesn't have to queue. So if dual Orin-X has this ability, isn't that pretty strong?
+
+76
+00:07:24,920 --> 00:07:31,120
+Right, although all three scenes above were efficiency-driven choices
+
+77
+00:07:31,120 --> 00:07:36,760
+It's actually still quite strong, actually still quite strong. So if dual Orin-X has this ability
+
+78
+00:07:36,760 --> 00:07:42,920
+Isn't that pretty strong? All three scenes are efficiency-oriented choices, but it's not hard to see
+
+79
+00:07:42,920 --> 00:07:48,320
+The gap between it and three-Turing. Three-Turing handles these scenes effortlessly
+
+80
+00:07:48,320 --> 00:07:53,960
+Dual Orin-X just isn't that decisive. A very important trait of XPeng's assisted driving
+
+81
+00:07:53,960 --> 00:07:58,120
+Is efficiency. I think the distilled build does pretty well in this respect
+
+82
+00:07:58,120 --> 00:08:03,560
+I just don't know how much of it the production version will keep. Another surprise this time
+
+83
+00:08:03,560 --> 00:08:07,760
+Is the pre-start ability at traffic lights. The distilled build's trigger rate here
+
+84
+00:08:07,760 --> 00:08:11,840
+Is especially high. You can see here — my god, there are still 4 seconds and it's already about to go
+
+85
+00:08:11,840 --> 00:08:18,880
+See that? There are still 4 seconds and it's already gone. These native VLA 2.0 abilities are right here
+
+86
+00:08:18,880 --> 00:08:24,360
+We'd wonder whether a scene like this is emergence again, but it happened more than once
+
+87
+00:08:24,360 --> 00:08:31,600
+Again — countdown at 3 seconds, and the distilled build moved off again. Wait, wait, wait — nice, nice
+
+88
+00:08:31,600 --> 00:08:37,160
+Emergence shows the model must have seen far too many similar scenes during pre-training
+
+89
+00:08:37,160 --> 00:08:43,400
+As long as you're the lead car at the lights, you can often trigger some of the distilled build's traits — including some of the highlights, all covered above
+
+90
+00:08:43,400 --> 00:08:48,400
+We really only drove for 2 hours, so its problems haven't been exposed all that much
+
+91
+00:08:48,400 --> 00:08:51,000
+There was one time the problem was a wrong lane selection.
+
+92
+00:08:55,000 --> 00:09:00,800
+Anyone who's made it this far is likely delighted by the smoothness of the distilled build.
+
+93
+00:09:00,800 --> 00:09:08,120
+And its ceiling went beyond what many people expected. At the XOS 6.3.0 launch event,
+
+94
+00:09:08,120 --> 00:09:16,160
+Liu Xianming spent a whole minute on XPeng's distillation approach. He said XPeng's distillation isn't simple cutting,
+
+95
+00:09:16,160 --> 00:09:21,880
+not simply chopping parameter count — he wants to preserve the model's underlying capability as much as possible.
+
+96
+00:09:21,880 --> 00:09:27,440
+In distillation, XPeng also updated the encoding scheme to keep only the key information,
+
+97
+00:09:27,440 --> 00:09:31,440
+hugely compressing the token count, so the compute load drops right away.
+
+98
+00:09:31,440 --> 00:09:39,600
+Two-layer supervision makes sure important information isn't cut. From our early preview so far,
+
+99
+00:09:39,600 --> 00:09:46,440
+its pure model capability has been largely preserved. So what's the difference between three-Turing and the dual Orin-X distilled build?
+
+100
+00:09:46,440 --> 00:09:52,080
+In terms of pure model capability, in daily driving you often really won't feel much difference.
+
+101
+00:09:52,080 --> 00:09:58,240
+We also posted a video today asking you to guess which run was the dual Orin-X one.
+
+102
+00:09:58,240 --> 00:10:02,920
+I think the main difference is in the reaction. For example, here,
+
+103
+00:10:02,920 --> 00:10:11,080
+the dual Orin-X observes a bit longer before a lane change; three-Turing anticipates and reacts faster, more composed.
+
+104
+00:10:11,080 --> 00:10:16,200
+With this distilled version, you'll find its ceiling is very high.
+
+105
+00:10:16,200 --> 00:10:20,280
+Its smoothness, comfort and flexibility are all very obvious traits.
+
+106
+00:10:20,280 --> 00:10:25,760
+So I think if the production version keeps 80% of the capability,
+
+107
+00:10:25,760 --> 00:10:34,640
+I'd be satisfied. So that's everything from the early — early preview of the VLA 2.0 dual Orin-X distilled build.
+
+108
+00:10:34,640 --> 00:10:38,160
+I'm Rourou Babi, and that's it for this episode's video.
+
+109
+00:10:38,160 --> 00:10:39,520
+See you next time.
+
