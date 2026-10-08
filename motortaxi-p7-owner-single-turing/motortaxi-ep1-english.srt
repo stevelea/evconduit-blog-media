@@ -1,0 +1,669 @@
+1
+00:00:00,000 --> 00:00:02,320
+This first improvement is starting to show.
+
+2
+00:00:02,320 --> 00:00:05,160
+Honestly, whatever the case, to be safe it
+should be watching.
+
+3
+00:00:05,160 --> 00:00:07,680
+I wouldn't dare. I wouldn't dare.
+
+4
+00:00:07,680 --> 00:00:08,680
+So how do you tell whether it drives well?
+
+5
+00:00:08,680 --> 00:00:10,680
+It's whether it matches an experienced
+driver's intent.
+
+6
+00:00:10,680 --> 00:00:11,200
+Right.
+
+7
+00:00:11,200 --> 00:00:13,120
+If it matches your own intent, then it's
+driving well.
+
+8
+00:00:13,120 --> 00:00:14,680
+Not bad.
+
+9
+00:00:15,360 --> 00:00:18,840
+And this slowdown isn't an instant stop in
+the wrong place. It's comfortable.
+
+10
+00:00:18,840 --> 00:00:20,640
+You can feel it watching and thinking as it
+goes.
+
+11
+00:00:20,640 --> 00:00:21,440
+Exactly.
+
+12
+00:00:21,440 --> 00:00:23,560
+You can see that once it moved over, it
+picked up speed.
+
+13
+00:00:25,080 --> 00:00:30,640
+Hello everyone, I'm MotorGogo's driver.
+Welcome to our brand-new series: MotorTaxi.
+
+14
+00:00:30,640 --> 00:00:34,636
+As the name suggests, it's a series about
+experiencing assisted driving.
+
+15
+00:00:34,636 --> 00:00:37,800
+But unlike other videos, the route is chosen
+by the user.
+
+16
+00:00:37,800 --> 00:00:45,560
+Today we've invited our second guest:
+Robert.
+
+17
+00:00:45,560 --> 00:00:50,280
+Robert is an old friend and a veteran XPeng
+owner.
+
+18
+00:00:50,280 --> 00:00:53,840
+I have two XPengs: the first an old P7 I
+bought in 2021, the second a P7+.
+
+19
+00:00:53,840 --> 00:00:55,440
+Nearly five years as an owner.
+
+20
+00:00:55,440 --> 00:01:00,400
+The car we're testing today is this MONA M03
+beside us.
+
+21
+00:01:00,400 --> 00:01:03,941
+It's a single-Turing car running the XOS
+6.3.0 distilled version,
+
+22
+00:01:03,941 --> 00:01:06,720
+and we've brought Robert along to see how it
+feels.
+
+23
+00:01:10,200 --> 00:01:15,080
+I bought my car in July 2021, and back then
+there wasn't much choice.
+
+24
+00:01:15,080 --> 00:01:22,120
+In 2021 there were only a few cars I could
+buy — the XPeng P7 among them.
+
+25
+00:01:22,120 --> 00:01:25,774
+The others you basically couldn't go for.
+
+26
+00:01:25,774 --> 00:01:33,440
+I genuinely felt the assisted driving would
+help me, and that's why I bought this car.
+
+27
+00:01:33,440 --> 00:01:43,480
+From 2021 to 2024 I drove nearly 100,000 km,
+and over 20,000 of those on LCC.
+
+28
+00:01:43,480 --> 00:01:50,380
+Back then I'd often talk about it in the
+owners' group chat — 'LCC has improved
+
+29
+00:01:50,380 --> 00:01:56,320
+again, it can get through this curve now'.
+It was quite interesting.
+
+30
+00:02:00,000 --> 00:02:06,720
+There's a change here now: the speed
+transitions are much better than dual-Orin.
+
+31
+00:02:06,720 --> 00:02:07,720
+It's not as rough, is it?
+
+32
+00:02:07,720 --> 00:02:09,840
+With dual-Orin it's like this — take this
+speed change:
+
+33
+00:02:09,840 --> 00:02:16,560
+You just said 70 — here it has to drop to
+about 30, and it gets very slow.
+
+34
+00:02:16,560 --> 00:02:18,142
+The feel is just bad.
+
+35
+00:02:18,142 --> 00:02:19,800
+Yes, the feel is poor.
+
+36
+00:02:19,800 --> 00:02:23,249
+Just now it clearly came down gradually.
+
+37
+00:02:23,249 --> 00:02:28,680
+This is just normal driving — and that's the
+first improvement.
+
+38
+00:02:28,680 --> 00:02:31,480
+Now you can see it. Very relaxed.
+
+39
+00:02:31,480 --> 00:02:36,080
+On a road like this the first thing is speed
+control. It matters a lot.
+
+40
+00:02:36,080 --> 00:02:40,787
+Do you think it recognised the speed bump
+there?
+
+41
+00:02:40,787 --> 00:02:42,160
+Feels like it.
+
+42
+00:02:42,160 --> 00:02:43,201
+Zoom in a bit.
+
+43
+00:02:43,201 --> 00:02:49,520
+That action looks like it — and not because
+of that car, because it had already gone.
+
+44
+00:02:49,520 --> 00:02:54,000
+That's a nice surprise. It means the feature
+hasn't been cut.
+
+45
+00:02:54,000 --> 00:02:59,360
+With oncoming traffic it eases out and
+waits, so the speed control is very good.
+
+46
+00:02:59,360 --> 00:03:07,000
+Look, it just keeps slowly creeping along.
+
+47
+00:03:07,000 --> 00:03:12,560
+There's an oncoming car too, and it moved
+over to avoid it first.
+
+48
+00:03:12,560 --> 00:03:15,973
+How do you judge whether it drives well?
+
+49
+00:03:15,973 --> 00:03:20,240
+Whether it matches an experienced driver's
+intent.
+
+50
+00:03:20,240 --> 00:03:22,669
+If it matches your intent, then it's driving
+well.
+
+51
+00:03:22,669 --> 00:03:22,960
+Right.
+
+52
+00:03:27,360 --> 00:03:29,920
+Not bad.
+
+53
+00:03:29,920 --> 00:03:35,200
+And the slowdown isn't an instant stop
+either. It's comfortable.
+
+54
+00:03:35,200 --> 00:03:40,600
+Here — I still think this is a bit complex,
+because the lane is completely blocked.
+
+55
+00:03:40,600 --> 00:03:42,109
+Let's see how it judges.
+
+56
+00:03:42,109 --> 00:03:44,246
+I reckon it might need a takeover,
+
+57
+00:03:44,246 --> 00:03:47,640
+because only the oncoming lane is left —
+ours is gone.
+
+58
+00:03:47,640 --> 00:03:52,240
+Give it a bit of throttle and it follows. It
+can follow.
+
+59
+00:03:52,240 --> 00:03:58,216
+I'm not holding it now, and it came back —
+it probably judged it couldn't,
+
+60
+00:03:58,216 --> 00:04:00,720
+because it's all oncoming lane.
+
+61
+00:04:00,720 --> 00:04:01,640
+I'll push it along.
+
+62
+00:04:01,640 --> 00:04:06,680
+If I push it, it judges correctly. Let's try
+again — I'll let go.
+
+63
+00:04:06,680 --> 00:04:10,120
+It's back. It came back on its own. And we
+took over again.
+
+64
+00:04:15,040 --> 00:04:22,421
+This time it reacted fast — as soon as it
+knew the Audi had moved right, it set off.
+
+65
+00:04:22,421 --> 00:04:26,200
+Left turns feel much better than dual-Orin.
+
+66
+00:04:26,200 --> 00:04:29,487
+It doesn't drive fast here,
+
+67
+00:04:29,487 --> 00:04:37,400
+and you can't — but its judgement of
+vehicles is fairly accurate.
+
+68
+00:04:37,400 --> 00:04:41,182
+Driving this road isn't especially
+comfortable,
+
+69
+00:04:41,182 --> 00:04:44,160
+because it's very close to the posts.
+
+70
+00:04:44,160 --> 00:04:46,470
+It isn't that smooth.
+
+71
+00:04:46,470 --> 00:04:48,560
+It could clip them.
+
+72
+00:04:48,560 --> 00:04:53,800
+Here you can feel that how it judges the
+available space matters.
+
+73
+00:04:53,800 --> 00:04:55,678
+And it will pull over and stop.
+
+74
+00:04:55,678 --> 00:04:55,920
+Yes.
+
+75
+00:04:58,440 --> 00:05:03,080
+'Switching route for you' — and as soon as
+it switched, it went.
+
+76
+00:05:03,080 --> 00:05:11,572
+That's good too, another improvement: it
+pulls over to the roadside itself,
+
+77
+00:05:11,572 --> 00:05:17,120
+and after a route switch it recovers
+immediately.
+
+78
+00:05:17,120 --> 00:05:19,200
+It should edge over.
+
+79
+00:05:22,760 --> 00:05:29,466
+Could it recognise this speed bump? Did it?
+
+80
+00:05:29,466 --> 00:05:31,805
+I think it did.
+
+81
+00:05:31,805 --> 00:05:33,520
+Same as me.
+
+82
+00:05:40,000 --> 00:05:44,085
+This gap and the narrow one earlier feel
+about the same.
+
+83
+00:05:44,085 --> 00:05:44,376
+Yes.
+
+84
+00:05:44,376 --> 00:05:44,960
+Strange.
+
+85
+00:05:48,120 --> 00:05:55,932
+Keep going — that car at the roadside braked
+hard. It stopped dead, right?
+
+86
+00:05:55,932 --> 00:06:03,427
+That deceleration was very quick, the
+response fast, and fairly linear.
+
+87
+00:06:03,427 --> 00:06:05,960
+Any problem? No problem.
+
+88
+00:06:05,960 --> 00:06:16,920
+Then go. There's one opposite — did it see
+it? No problem. Creep along, come across.
+
+89
+00:06:16,920 --> 00:06:22,843
+But there's a car blocking the way ahead.
+It's seen it now.
+
+90
+00:06:22,843 --> 00:06:30,574
+It's thinking whether to come over or go
+straight through. Wait — hazards on.
+
+91
+00:06:30,574 --> 00:06:32,080
+It's reversing.
+
+92
+00:06:32,080 --> 00:06:35,973
+What does that show? Its vision reaches a
+long way.
+
+93
+00:06:35,973 --> 00:06:40,400
+Yes — you can see that far, and you can see
+its intention.
+
+94
+00:06:40,400 --> 00:06:47,933
+It seems to prompt for whatever it sees.
+That was handled well — it kept watching it.
+
+95
+00:06:47,933 --> 00:06:49,440
+Yes, watching it.
+
+96
+00:06:49,440 --> 00:06:57,429
+It can prompt about whatever it sees. Once
+the car went in, did it start prompting?
+
+97
+00:06:57,429 --> 00:06:58,680
+OK, let's go.
+
+98
+00:06:58,680 --> 00:07:02,519
+Has it seen something else? Another car
+ahead?
+
+99
+00:07:02,519 --> 00:07:07,360
+Ah, it's reacted. There's a car ahead. It
+can come across.
+
+100
+00:07:08,560 --> 00:07:11,329
+It'll be slower — slower than dual-Turing.
+
+101
+00:07:11,329 --> 00:07:12,120
+Yes, slower.
+
+102
+00:07:17,440 --> 00:07:20,548
+At least its thinking is on the right track.
+
+103
+00:07:20,548 --> 00:07:20,830
+Yes.
+
+104
+00:07:20,830 --> 00:07:21,960
+It's coming out.
+
+105
+00:07:26,040 --> 00:07:28,791
+OK, you can feel it watching and thinking.
+
+106
+00:07:28,791 --> 00:07:29,315
+Exactly.
+
+107
+00:07:29,315 --> 00:07:32,720
+Once it moved over it started prompting —
+same here.
+
+108
+00:07:42,960 --> 00:07:47,080
+There's no way it's letting that one
+through. Come on out, get going.
+
+109
+00:07:51,240 --> 00:07:54,889
+This road is quite a challenge, I think.
+
+110
+00:07:54,889 --> 00:07:56,440
+Very challenging.
+
+111
+00:07:57,600 --> 00:08:02,093
+Look — you come out and it's like this
+again. I wouldn't know which way to go.
+
+112
+00:08:02,093 --> 00:08:06,240
+We're going straight, this lane turns left,
+and there's a traffic light.
+
+113
+00:08:08,640 --> 00:08:13,143
+We've been at this for over an hour now, and
+the route is genuinely difficult.
+
+114
+00:08:13,143 --> 00:08:14,760
+Robert, tell us how it felt.
+
+115
+00:08:14,760 --> 00:08:19,415
+We drove about 40 minutes to get to my
+route,
+
+116
+00:08:19,415 --> 00:08:28,000
+then about 20 minutes on the route I chose.
+First the good points — on big roads...
+
+117
+00:08:28,000 --> 00:08:31,560
+There are a few ways it's better than
+dual-Orin.
+
+118
+00:08:31,560 --> 00:08:32,005
+First:
+
+119
+00:08:32,005 --> 00:08:35,714
+on main-to-auxiliary road transitions it no
+longer
+
+120
+00:08:35,714 --> 00:08:39,200
+forces a speed reduction the way dual-Orin
+did.
+
+121
+00:08:39,200 --> 00:08:43,205
+Second: with illegally parked cars,
+especially when turning right,
+
+122
+00:08:43,205 --> 00:08:45,025
+its judgement is more precise.
+
+123
+00:08:45,025 --> 00:08:49,273
+It no longer does what it used to — knowing
+there's a parked car ahead
+
+124
+00:08:49,273 --> 00:08:53,520
+and still pulling over before changing
+lanes. Not that stupid anymore.
+
+125
+00:08:53,520 --> 00:08:59,920
+Third, and I think the biggest change:
+overall, big roads and small roads alike,
+
+126
+00:08:59,920 --> 00:09:06,480
+the driving quality — the smoothness and the
+feel — is much better than dual-Orin.
+
+127
+00:09:06,480 --> 00:09:07,832
+That's the good.
+
+128
+00:09:07,832 --> 00:09:11,721
+The not-so-good: on small roads, narrow
+roads,
+
+129
+00:09:11,721 --> 00:09:15,440
+it clearly hesitates and won't push forward.
+
+130
+00:09:15,440 --> 00:09:15,928
+Second,
+
+131
+00:09:15,928 --> 00:09:21,650
+when meeting oncoming traffic it has no real
+ability to get itself out of trouble.
+
+132
+00:09:21,650 --> 00:09:26,324
+On a narrow road, if a car comes the other
+way after we've gone in,
+
+133
+00:09:26,324 --> 00:09:30,720
+a human would reverse — it can't, so it just
+has to keep going.
+
+134
+00:09:30,720 --> 00:09:34,280
+Roughly the good and the bad — those two big
+areas.
+
+135
+00:09:34,280 --> 00:09:38,589
+In several scenes just now you could clearly
+see it thinking — including
+
+136
+00:09:38,589 --> 00:09:42,360
+when we met the truck reversing, it was
+visibly thinking there.
+
+137
+00:09:42,360 --> 00:09:44,160
+But this version has one problem:
+
+138
+00:09:44,160 --> 00:09:47,160
+on narrow roads it really isn't as good as
+dual-Turing.
+
+139
+00:09:47,160 --> 00:09:49,996
+The compute isn't enough, so its thinking is
+slower.
+
+140
+00:09:49,996 --> 00:09:54,360
+Otherwise — control, route selection —
+basically no difference from dual-Turing.
+
+141
+00:09:54,360 --> 00:09:55,735
+OK, that's this episode.
+
+142
+00:09:55,735 --> 00:09:59,916
+This is our first MotorTaxi — tell us in the
+comments where you'd like us
+
+143
+00:09:59,916 --> 00:10:04,040
+to go next and we'll try to meet your
+request. That's it for this video.
+
+144
+00:10:04,040 --> 00:10:04,600
+Thanks, Robert.
+
+145
+00:10:04,600 --> 00:10:06,582
+Thank you, cameraman.
+
+146
+00:10:06,582 --> 00:10:06,960
+Bye.
